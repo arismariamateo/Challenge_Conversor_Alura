@@ -4,14 +4,13 @@
      <img width="500" heigth="300" src="https://user-images.githubusercontent.com/91544872/163816727-d48d3cdc-1cd8-445a-8b1c-90ed35431805.png">
 </p>
 
-### ¡Bienvenido al proyecto con la solución al desafío Conversor de Moneda con Java! Pasos principales:
-
-En esta oportunidad, se desarrolla la aplicación de un conversor de monedas y temperatura, utilizando el lenguaje Java. 
-Las características solicitadas por nuestro cliente son las siguientes:
+En esta Práctica,  se desarrolla la aplicación de un conversor de monedas y temperatura, utilizando el lenguaje Java, programación Orientada a Objetos. 
+Las características solicitadas por el Programa ONE-Alura-Latam, son las siguientes:
 
 Requisitos:
 - El convertidor de moneda debe:
- - Convertir de la moneda Soles Peruenos(PEN) a Dólar
+    (Se cambia la moneda original del Challenge Pesos por Soles Moneda del Perú (PEN))
+       - Convertir de Soles  a Dólar 
        - Convertir de Soles  a Euros
        - Convertir de Soles  a Libras Esterlinas
        - Convertir de Soles  a Yen Japonés
