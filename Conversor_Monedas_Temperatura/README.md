@@ -6,32 +6,40 @@
 
 ### ¡Bienvenido al proyecto con la solución al desafío Conversor de Moneda con Java! Pasos principales:
 
-#### Marca este proyecto con una estrella ⭐
-#### Sigue las lecciones y las instrucciones de contenido 📚
-#### Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/oracle-one-java) 📃
+En esta oportunidad, se desarrolla la aplicación de un conversor de monedas y temperatura, utilizando el lenguaje Java. 
+Las características solicitadas por nuestro cliente son las siguientes:
 
-## ¿Cómo incluir mi proyecto en este Challenge?
----
+Requisitos:
+- El convertidor de moneda debe:
+ - Convertir de la moneda Soles Peruenos(PEN) a Dólar
+       - Convertir de Soles  a Euros
+       - Convertir de Soles  a Libras Esterlinas
+       - Convertir de Soles  a Yen Japonés
+       - Convertir de Soles  a Won sul-coreano
 
-1) Publicar el proyecto en GitHub
-2) Utiliza el tema/topic:
+       - Convertir de Dólar a Soles
+       - Convertir de Euros a Soles
+       - Convertir de Libras Esterlinas a Soles
+       - Convertir de Yen Japonés a Soles
+       - Convertir de Won sul-coreano a Soles
 
- - Grupo 3: **challengeoneconversorlatam3**
+- El convertidor de unidades de temperatura:
+       - Celcius a fahrenheit
+       - Celcius a kelvin
+       - Fahrenheit a celcius
+       - Fahrenheit a kelvin
+       - Kelvin a celcius
+       - Kelvin a fahrenheit 
 
-Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
-Incluye la etiqueta "**challengeoneconversorlatam3**"
 
-![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
+Tecnilogías Utilizadas:
 
-## ¿Cómo hago la entrega final de mi proyecto?
----
+  - Java
+  - Eclipse IDE
+  
+Ejecutar la aplicación:
 
-3) Coloca tus datos en el formulario de entrega con el **link del proyecto publicado con GitHub Pages**
-🔹 [link del formulario](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one-esp)
-
-![formulario-esp](https://user-images.githubusercontent.com/91544872/179625558-4dda7e69-bdaf-4a79-9ca9-82cf8fede9de.png)
-
-4) Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este desafío 🏆
-5) ¡No olvides publicar un link o un vídeo de tu proyecto en Linkedin! 🏁
-
-     <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  - Para eecutar la aplicación se requiere instalar  Java v8 y JDK v8. 
+  - Para la conversión de divisas en tiempo real se consume la API Apilayer
+  
+  
